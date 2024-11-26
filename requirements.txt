@@ -1,3 +1,4 @@
 gunicorn
 Django>=3.0,<5.0  
 dj_database_url
+whitenoise
